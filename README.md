@@ -1,3 +1,5 @@
+#Update
+Updated version so that Android versions >12 (API >31) are supported. 
 # Cosinuss° One Flutter Example
 
 A minimal working example showing how to use the Cosinuss° One earbuds with Flutter to obtain heart rate, body temperature, accelerometer and raw PPG data.
